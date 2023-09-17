@@ -1,8 +1,7 @@
 Hey there, I’m Michelle and welcome to my GitHub! 
-- 📚 I'm currently an undergraduate mechanical and aerospace engineering student at Princeton University 
-- 🚀 I’m interested in robotics, controls, reinforcement learning, and spacecraft
-- 💡 I'm co-president of [Princeton Women in Aeronautics and Astronautics](https://www.woaaofficial.org/), Club Technology and Training Officer in [Princeton Robotics](https://robotics.princeton.edu/), a fellow in the research & pedagogy committe for the [Princeton Writing Center](https://writing.princeton.edu/center), and a [Princeton Engineering](https://engineering.princeton.edu/) BSE interactor for incoming freshmen
-- 🌱 I’m currently learning [PyTorch](https://pytorch.org/) and [OpenAi Gym](https://gym.openai.com/) through my summer project on analogous notions of complexity in the field of robotics for the [Princeton IRoM Lab](https://irom-lab.princeton.edu/)
+- 📚 I'm currently a PhD AeroAstro student at Stanford (graduated from MAE at Princeton University)
+- 🚀 I’m interested in optimization and ML algorithms for autonomous spacecraft applications
+- 🌱 I’m familiar with Python and Julia as well as PyTorch and OpenAI Gym through my past projects for the [Princeton IRoM Lab](https://irom-lab.princeton.edu/) and [Stanford Intelligent Systems Lab](https://sisl.stanford.edu/). 
 - 🧩 I also enjoy softball, skiing, astronomy, writing poetry, and fiddling
 - 📫 Feel free to reach me through my [Linkedin](linkedin.com/in/mtho/)!
 
