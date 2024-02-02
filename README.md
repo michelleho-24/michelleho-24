@@ -1,6 +1,6 @@
 Hey there, I’m Michelle and welcome to my GitHub! 
 - 📚 I'm currently a PhD AeroAstro student at Stanford (graduated from MAE at Princeton University)
-- 🚀 I’m interested in optimization and ML algorithms for autonomous spacecraft applications
+- 🚀 I’m interested in optimal and learning-based control for spacecraft autonomy under uncertainty
 - 🌱 I’m familiar with Python and Julia as well as PyTorch and OpenAI Gym through my past projects for the [Princeton IRoM Lab](https://irom-lab.princeton.edu/) and [Stanford Intelligent Systems Lab](https://sisl.stanford.edu/). 
 - 🧩 I also enjoy softball, skiing, astronomy, writing poetry, and fiddling
 - 📫 Feel free to reach me through my [Linkedin](linkedin.com/in/mtho/)!
